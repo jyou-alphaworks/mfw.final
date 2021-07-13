@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Welcome to my Website!
 
 Hi! Welcome to my Final Project for Bitwise Workforce Class: Mobile Friendly Websites. Hope you enjoy what I have done. Remember it's not about how many times you fall, but how many times you get back up. Knowing you'll fail a thousand times, but still won't give up.
 
